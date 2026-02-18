@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-297d983d-3b95-4424-b4a7-b2db5f756041.gif" alt="Tech Stack GIF" width="800"/>
-</p>
-
-<br/>
 
 # Hi, I'm Arsalan Ayaz 👋
 
@@ -15,7 +10,7 @@
 ### ⚡ Coding Stack
 ![Coding Stack]( React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript )
 
-
+<br/>
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,mui,redux,figma,ai" />
