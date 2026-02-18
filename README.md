@@ -8,7 +8,7 @@
 #### Frontend Development
 
 ### ⚡ Coding Stack
-![Coding Stack]( React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript )
+[Coding Stack]( React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript )
 
 <br/>
 <div align="left">
@@ -58,13 +58,13 @@ More Projects to come...
 ## 📊 GitHub Activity & Highlights
 
 ### 💡 Top Languages I Code In
-![Top Languages]( Javascript , Typescript)
+[Top Languages]( Javascript , Typescript)
 
 ### ⚡ Coding Stack
-![Coding Stack]( React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript   )
+[Coding Stack]( React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript   )
 
 ### 🌟 My Coding Streak
-![GitHub Streak](Daily Commits)
+[GitHub Streak](Daily Commits)
 
 
 ## 🌐 Connect With Me
