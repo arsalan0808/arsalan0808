@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-297d983d-3b95-4424-b4a7-b2db5f756041.gif" alt="Tech Stack Banner" width="800"/>
-</p>
+  <img src="https://camo.githubusercontent.com/0b5c94586e4e7ea1b0c5c6f28c28e7c8c7a7c84d6f92f0f7e0e0e3b8d9d6f7c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d546563682d537461636b2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2
+
 
 <br/>
 
