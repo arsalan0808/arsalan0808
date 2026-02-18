@@ -38,6 +38,32 @@ More Projects to come...
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-297d983d-3b95-4424-b4a7-b2db5f756041.gif" width="100%" alt="Tech Stack Banner" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+### Tech Stack
+
+#### Frontend Development
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind,mui,redux,figma,ai" />
+  </a>
+</div>
+
 ## 📊 GitHub Activity & Highlights
 
 ### 💡 Top Languages I Code In
