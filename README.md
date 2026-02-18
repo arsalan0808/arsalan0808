@@ -60,7 +60,7 @@ More Projects to come...
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind,mui,redux,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,shadcnui,html,css,bootstrap,tailwind,mui,redux,reactrouter,figma,ai" />
   </a>
 </div>
 
