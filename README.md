@@ -12,9 +12,13 @@
 
 #### Frontend Development
 
+### ⚡ Coding Stack
+![Coding Stack]( React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript )
+
+
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,,html,css,bootstrap,tailwind,mui,redux,,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,mui,redux,figma,ai" />
   </a>
 </div>
 
