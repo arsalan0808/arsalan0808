@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Tech Stack Banner" width="800"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-297d983d-3b95-4424-b4a7-b2db5f756041.gif" alt="Tech Stack Banner" width="800"/>
 </p>
 
 <br/>
@@ -59,18 +59,7 @@ I enjoy turning **design concepts into pixel-perfect, high-performance websites*
 
 More Projects to come...
 
-
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-297d983d-3b95-4424-b4a7-b2db5f756041.gif" width="100%" alt="Tech Stack Banner" />
-</div>
-
-<br/>
-
-
-
-
 
 ## 📊 GitHub Activity & Highlights
 
