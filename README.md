@@ -1,13 +1,37 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Tech Stack Banner" width="800"/>
+</p>
+
+<br/>
+
 # Hi, I'm Arsalan Ayaz 👋
 
 🚀 **Frontend Developer | React JS Specialist | UI/UX Enthusiast**
 
-💻 **Tech Stack:** React, Vite ,Tailwind CSS, Framer Motion, Material UI,Shadcn UI, Styled Components, APIs, HTML5, CSS3, JavaScript  
+### Tech Stack
+
+#### Frontend Development
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,,html,css,bootstrap,tailwind,mui,redux,,figma,ai" />
+  </a>
+</div>
 
 🌐 **Portfolio:** [Arsalan-Ayaz.dev](https://arsalan-ayaz.netlify.app)  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/arsalan-ayaz-710b51295) | [Email](waniarsalan08@gmail.com)
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
 
 ## 🌟 About Me
 
@@ -44,25 +68,9 @@ More Projects to come...
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
 
-<br/>
 
-### Tech Stack
-
-#### Frontend Development
-
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,shadcnui,html,css,bootstrap,tailwind,mui,redux,reactrouter,figma,ai" />
-  </a>
-</div>
 
 ## 📊 GitHub Activity & Highlights
 
