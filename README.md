@@ -52,9 +52,9 @@ More Projects to come...
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/arsalan-ayaz-710b51295)  
-[![Portfolio](https://arsalan-ayaz.netlify.app)  
-[![Email](waniarsalan08@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arsalan-ayaz-710b51295)  
+[Portfolio](https://arsalan-ayaz.netlify.app)  
+[Email](waniarsalan08@gmail.com)
 
 ---
 
