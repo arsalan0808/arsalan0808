@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0b5c94586e4e7ea1b0c5c6f28c28e7c8c7a7c84d6f92f0f7e0e0e3b8d9d6f7c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d546563682d537461636b2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2
-
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-297d983d-3b95-4424-b4a7-b2db5f756041.gif" alt="Tech Stack GIF" width="800"/>
+</p>
 
 <br/>
 
@@ -26,11 +26,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.netlify.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
 <br/>
 
 ## 🌟 About Me
