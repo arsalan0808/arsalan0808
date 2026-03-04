@@ -17,7 +17,7 @@
   </a>
 </div>
 
-🌐 **Portfolio:** [Arsalan-Ayaz.dev](https://arsalan-ayaz.netlify.app)  
+🌐 **Portfolio:** [Arsalan-Ayaz.dev](https://arsalannnn.vercel.app)  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/arsalan-ayaz-710b51295) | [Email](waniarsalan08@gmail.com)
 
 ---
